@@ -26,8 +26,6 @@ public class Programa {
 				System.out.print("*");
 			}
 			System.out.println();
-		}
-		
+		}		
 	}
-
 }
