@@ -17,6 +17,10 @@ public class Programa {
 		
 	}
 	
+	/**
+	 * Imprime uma escada de * de tamanho n fornecido
+	 * @param n um numero inteiro qualquer fornecido
+	 */
 	public static void imprime(int n) {
 		for(int i = 1; i <= n; i++) {
 			for(int j = (n - i); j >= 1; j--) {
